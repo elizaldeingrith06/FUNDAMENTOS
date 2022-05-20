@@ -1,8 +1,8 @@
-Programa en c++ de Ada Galarza
+Programa en c++ de Ingrith Elizalde
 
-Autor: Ada Naomi Galarza Caicedo
+Autor: Ingrith Gissela Elizalde Elizalde
 
-Contacto: ada.galarza.caicedo@utelvt.edu.ec
+Contacto: ingrith.elizalde.elizalde@utelvt.edu.ec
 
 
 //PROGRAMAS//
