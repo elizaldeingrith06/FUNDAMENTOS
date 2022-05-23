@@ -42,6 +42,15 @@ Ingresa la cantidad de monedas por contar.
 Selecciona cuantas monedas son de 0.25 y cuantas son de 0.10.
 El programa hará la contabilidad de las monedas ingresadas.
 Por ultimo mostrará el resultado de todas las monedas ingresadas.
+#### Salida:
+````
+EG_c;
+EG_a;
+EG_c2;
+EG_a2;
+EG_h;
+EG_a1;
+````
 
 ### Cálculo de Edad:
 
@@ -49,6 +58,10 @@ Este programa está diseñado para calcular la edad de una persona. Su funcionam
 Ingresa los datos pedido por el programa.
 El programa se encargá de hacer los calculos respectivos.
 El programa mostrará el resultado del calculo realizado.
+#### Salida:
+````
+EG_ed;
+````
 
 ### Punto de Venta:
 
@@ -58,6 +71,12 @@ Ingrese el valor de cada producto.
 Realizará el respectivo calculo para sacar el el valor de su compra con el iva incluido.
 Realizará otro calculo para hacerle un descuento del valor con iva.
 El programa por ultimo mostrará el resultado del valor correspondiente a su compra.
+#### Salida:
+````
+EG_ivacos;
+EG_total;
+````
+
 ## Instalación
 ### Descargar Repositorio
 ````
