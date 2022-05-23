@@ -56,6 +56,6 @@ Realizará otro calculo para hacerle un descuento del valor con iva.
 El programa por ultimo mostrará el resultado del valor correspondiente a su compra.
 ## Instalación
 ### Descargar Repositorio
-'''
+````
 git clone https://github.com/elizaldeingrith06/FUNDAMENTOS
-'''
+````
