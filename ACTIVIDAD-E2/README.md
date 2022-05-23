@@ -14,7 +14,7 @@ edad.cpp
 CuentaMoneda.cpp
 PuntoVenta.cpp
 
-## Descripcion de todos los programas //
+## Descripcion de todos los programas 
 
 ### Compara: 
 
@@ -23,6 +23,11 @@ Debe ingresar los dos números que se quiere comparar.
 El programa realizará una comparación de los números ingresados.
 El programa designará cual es el mayor o si son iguales.
 Finalmente mostrará el resultado por pantalla si es mayor o igual.
+#### Salida:
+````
+"**y** es mayor.";
+"**m** es menor.";
+````
 
 ### Suma: 
 
