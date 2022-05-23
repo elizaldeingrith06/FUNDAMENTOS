@@ -59,3 +59,8 @@ El programa por ultimo mostrará el resultado del valor correspondiente a su com
 ````
 git clone https://github.com/elizaldeingrith06/FUNDAMENTOS
 ````
+### Ingresar al repositorio
+````
+cd FUNDAMENTOS
+cd ACTIVIDAD-E2
+````
